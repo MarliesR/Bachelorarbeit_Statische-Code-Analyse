@@ -1,0 +1,9 @@
+D:\Projekte\BA\Bachelorprojekt\src\TestCaseSupport\TestCaseSupport\bin\Debug\TestCaseSupport.dll
+D:\Projekte\BA\Bachelorprojekt\src\TestCaseSupport\TestCaseSupport\bin\Debug\TestCaseSupport.pdb
+D:\Projekte\BA\Bachelorprojekt\src\TestCaseSupport\TestCaseSupport\bin\Debug\NLog.dll
+D:\Projekte\BA\Bachelorprojekt\src\TestCaseSupport\TestCaseSupport\bin\Debug\NLog.xml
+D:\Projekte\BA\Bachelorprojekt\src\TestCaseSupport\TestCaseSupport\obj\Debug\TestCaseSupport.csproj.AssemblyReference.cache
+D:\Projekte\BA\Bachelorprojekt\src\TestCaseSupport\TestCaseSupport\obj\Debug\TestCaseSupport.csproj.CoreCompileInputs.cache
+D:\Projekte\BA\Bachelorprojekt\src\TestCaseSupport\TestCaseSupport\obj\Debug\TestCaseSupport.csproj.CopyComplete
+D:\Projekte\BA\Bachelorprojekt\src\TestCaseSupport\TestCaseSupport\obj\Debug\TestCaseSupport.dll
+D:\Projekte\BA\Bachelorprojekt\src\TestCaseSupport\TestCaseSupport\obj\Debug\TestCaseSupport.pdb

@@ -1,0 +1,13 @@
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE23_Relative_Path_Traversal\obj\Debug\CWE23_Relative_Path_Traversal.csproj.AssemblyReference.cache
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE23_Relative_Path_Traversal\obj\Debug\CWE23_Relative_Path_Traversal.csproj.SuggestedBindingRedirects.cache
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE23_Relative_Path_Traversal\obj\Debug\CWE23_Relative_Path_Traversal.csproj.CoreCompileInputs.cache
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE23_Relative_Path_Traversal\bin\Debug\CWE23_Relative_Path_Traversal.exe.config
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE23_Relative_Path_Traversal\bin\Debug\CWE23_Relative_Path_Traversal.exe
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE23_Relative_Path_Traversal\bin\Debug\CWE23_Relative_Path_Traversal.pdb
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE23_Relative_Path_Traversal\bin\Debug\NLog.dll
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE23_Relative_Path_Traversal\bin\Debug\System.DirectoryServices.dll
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE23_Relative_Path_Traversal\bin\Debug\TestCaseSupport.dll
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE23_Relative_Path_Traversal\bin\Debug\TestCaseSupport.pdb
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE23_Relative_Path_Traversal\obj\Debug\CWE23_Relative_Path_Traversal.csproj.CopyComplete
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE23_Relative_Path_Traversal\obj\Debug\CWE23_Relative_Path_Traversal.exe
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE23_Relative_Path_Traversal\obj\Debug\CWE23_Relative_Path_Traversal.pdb

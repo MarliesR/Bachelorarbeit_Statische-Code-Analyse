@@ -1,0 +1,13 @@
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE89_SQL_Injection\s01\bin\Debug\CWE89_SQL_Injection_s01.exe.config
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE89_SQL_Injection\s01\bin\Debug\CWE89_SQL_Injection_s01.exe
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE89_SQL_Injection\s01\bin\Debug\CWE89_SQL_Injection_s01.pdb
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE89_SQL_Injection\s01\bin\Debug\NLog.dll
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE89_SQL_Injection\s01\bin\Debug\System.DirectoryServices.dll
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE89_SQL_Injection\s01\bin\Debug\TestCaseSupport.dll
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE89_SQL_Injection\s01\bin\Debug\TestCaseSupport.pdb
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE89_SQL_Injection\s01\obj\Debug\CWE89_SQL_Injection_s01.csproj.AssemblyReference.cache
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE89_SQL_Injection\s01\obj\Debug\CWE89_SQL_Injection_s01.csproj.SuggestedBindingRedirects.cache
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE89_SQL_Injection\s01\obj\Debug\CWE89_SQL_Injection_s01.csproj.CoreCompileInputs.cache
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE89_SQL_Injection\s01\obj\Debug\CWE89_SQL_Injection_s01.csproj.CopyComplete
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE89_SQL_Injection\s01\obj\Debug\CWE89_SQL_Injection_s01.exe
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE89_SQL_Injection\s01\obj\Debug\CWE89_SQL_Injection_s01.pdb

@@ -1,0 +1,13 @@
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE390_Error_Without_Action\bin\Debug\CWE390_Error_Without_Action.exe.config
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE390_Error_Without_Action\bin\Debug\CWE390_Error_Without_Action.exe
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE390_Error_Without_Action\bin\Debug\CWE390_Error_Without_Action.pdb
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE390_Error_Without_Action\bin\Debug\NLog.dll
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE390_Error_Without_Action\bin\Debug\System.DirectoryServices.dll
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE390_Error_Without_Action\bin\Debug\TestCaseSupport.dll
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE390_Error_Without_Action\bin\Debug\TestCaseSupport.pdb
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE390_Error_Without_Action\obj\Debug\CWE390_Error_Without_Action.csproj.AssemblyReference.cache
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE390_Error_Without_Action\obj\Debug\CWE390_Error_Without_Action.csproj.SuggestedBindingRedirects.cache
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE390_Error_Without_Action\obj\Debug\CWE390_Error_Without_Action.csproj.CoreCompileInputs.cache
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE390_Error_Without_Action\obj\Debug\CWE390_Error_Without_Action.csproj.CopyComplete
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE390_Error_Without_Action\obj\Debug\CWE390_Error_Without_Action.exe
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE390_Error_Without_Action\obj\Debug\CWE390_Error_Without_Action.pdb

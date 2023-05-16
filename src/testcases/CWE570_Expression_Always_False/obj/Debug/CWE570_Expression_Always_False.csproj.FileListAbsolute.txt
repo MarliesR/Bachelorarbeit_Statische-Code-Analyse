@@ -1,0 +1,13 @@
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE570_Expression_Always_False\bin\Debug\CWE570_Expression_Always_False.exe.config
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE570_Expression_Always_False\bin\Debug\CWE570_Expression_Always_False.exe
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE570_Expression_Always_False\bin\Debug\CWE570_Expression_Always_False.pdb
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE570_Expression_Always_False\bin\Debug\NLog.dll
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE570_Expression_Always_False\bin\Debug\System.DirectoryServices.dll
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE570_Expression_Always_False\bin\Debug\TestCaseSupport.dll
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE570_Expression_Always_False\bin\Debug\TestCaseSupport.pdb
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE570_Expression_Always_False\obj\Debug\CWE570_Expression_Always_False.csproj.AssemblyReference.cache
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE570_Expression_Always_False\obj\Debug\CWE570_Expression_Always_False.csproj.SuggestedBindingRedirects.cache
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE570_Expression_Always_False\obj\Debug\CWE570_Expression_Always_False.csproj.CoreCompileInputs.cache
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE570_Expression_Always_False\obj\Debug\CWE570_Expression_Always_False.csproj.CopyComplete
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE570_Expression_Always_False\obj\Debug\CWE570_Expression_Always_False.exe
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE570_Expression_Always_False\obj\Debug\CWE570_Expression_Always_False.pdb

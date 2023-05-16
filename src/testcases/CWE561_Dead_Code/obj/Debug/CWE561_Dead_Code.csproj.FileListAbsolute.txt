@@ -1,0 +1,13 @@
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE561_Dead_Code\bin\Debug\CWE561_Dead_Code.exe.config
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE561_Dead_Code\bin\Debug\CWE561_Dead_Code.exe
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE561_Dead_Code\bin\Debug\CWE561_Dead_Code.pdb
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE561_Dead_Code\bin\Debug\NLog.dll
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE561_Dead_Code\bin\Debug\System.DirectoryServices.dll
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE561_Dead_Code\bin\Debug\TestCaseSupport.dll
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE561_Dead_Code\bin\Debug\TestCaseSupport.pdb
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE561_Dead_Code\obj\Debug\CWE561_Dead_Code.csproj.AssemblyReference.cache
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE561_Dead_Code\obj\Debug\CWE561_Dead_Code.csproj.SuggestedBindingRedirects.cache
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE561_Dead_Code\obj\Debug\CWE561_Dead_Code.csproj.CoreCompileInputs.cache
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE561_Dead_Code\obj\Debug\CWE561_Dead_Code.csproj.CopyComplete
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE561_Dead_Code\obj\Debug\CWE561_Dead_Code.exe
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE561_Dead_Code\obj\Debug\CWE561_Dead_Code.pdb

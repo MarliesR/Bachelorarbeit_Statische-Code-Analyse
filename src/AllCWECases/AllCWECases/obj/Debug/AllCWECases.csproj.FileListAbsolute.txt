@@ -1,0 +1,8 @@
+D:\Projekte\BA\Bachelorprojekt\src\AllCWECases\AllCWECases\obj\Debug\AllCWECases.csproj.AssemblyReference.cache
+D:\Projekte\BA\Bachelorprojekt\src\AllCWECases\AllCWECases\obj\Debug\AllCWECases.csproj.SuggestedBindingRedirects.cache
+D:\Projekte\BA\Bachelorprojekt\src\AllCWECases\AllCWECases\obj\Debug\AllCWECases.csproj.CoreCompileInputs.cache
+D:\Projekte\BA\Bachelorprojekt\src\AllCWECases\AllCWECases\bin\Debug\AllCWECases.exe.config
+D:\Projekte\BA\Bachelorprojekt\src\AllCWECases\AllCWECases\bin\Debug\AllCWECases.exe
+D:\Projekte\BA\Bachelorprojekt\src\AllCWECases\AllCWECases\bin\Debug\AllCWECases.pdb
+D:\Projekte\BA\Bachelorprojekt\src\AllCWECases\AllCWECases\obj\Debug\AllCWECases.exe
+D:\Projekte\BA\Bachelorprojekt\src\AllCWECases\AllCWECases\obj\Debug\AllCWECases.pdb

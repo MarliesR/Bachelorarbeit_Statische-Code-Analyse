@@ -1,0 +1,13 @@
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE404_Improper_Resource_Shutdown\bin\Debug\CWE404_Improper_Resource_Shutdown.exe.config
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE404_Improper_Resource_Shutdown\bin\Debug\CWE404_Improper_Resource_Shutdown.exe
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE404_Improper_Resource_Shutdown\bin\Debug\CWE404_Improper_Resource_Shutdown.pdb
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE404_Improper_Resource_Shutdown\bin\Debug\NLog.dll
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE404_Improper_Resource_Shutdown\bin\Debug\System.DirectoryServices.dll
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE404_Improper_Resource_Shutdown\bin\Debug\TestCaseSupport.dll
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE404_Improper_Resource_Shutdown\bin\Debug\TestCaseSupport.pdb
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE404_Improper_Resource_Shutdown\obj\Debug\CWE404_Improper_Resource_Shutdown.csproj.AssemblyReference.cache
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE404_Improper_Resource_Shutdown\obj\Debug\CWE404_Improper_Resource_Shutdown.csproj.SuggestedBindingRedirects.cache
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE404_Improper_Resource_Shutdown\obj\Debug\CWE404_Improper_Resource_Shutdown.csproj.CoreCompileInputs.cache
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE404_Improper_Resource_Shutdown\obj\Debug\CWE404_Improper_Resource_Shutdown.csproj.CopyComplete
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE404_Improper_Resource_Shutdown\obj\Debug\CWE404_Improper_Resource_Shutdown.exe
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE404_Improper_Resource_Shutdown\obj\Debug\CWE404_Improper_Resource_Shutdown.pdb

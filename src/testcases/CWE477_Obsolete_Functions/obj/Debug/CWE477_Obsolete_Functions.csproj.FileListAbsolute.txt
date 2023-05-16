@@ -1,0 +1,13 @@
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE477_Obsolete_Functions\bin\Debug\CWE477_Obsolete_Functions.exe.config
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE477_Obsolete_Functions\bin\Debug\CWE477_Obsolete_Functions.exe
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE477_Obsolete_Functions\bin\Debug\CWE477_Obsolete_Functions.pdb
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE477_Obsolete_Functions\bin\Debug\NLog.dll
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE477_Obsolete_Functions\bin\Debug\System.DirectoryServices.dll
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE477_Obsolete_Functions\bin\Debug\TestCaseSupport.dll
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE477_Obsolete_Functions\bin\Debug\TestCaseSupport.pdb
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE477_Obsolete_Functions\obj\Debug\CWE477_Obsolete_Functions.csproj.AssemblyReference.cache
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE477_Obsolete_Functions\obj\Debug\CWE477_Obsolete_Functions.csproj.SuggestedBindingRedirects.cache
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE477_Obsolete_Functions\obj\Debug\CWE477_Obsolete_Functions.csproj.CoreCompileInputs.cache
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE477_Obsolete_Functions\obj\Debug\CWE477_Obsolete_Functions.csproj.CopyComplete
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE477_Obsolete_Functions\obj\Debug\CWE477_Obsolete_Functions.exe
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE477_Obsolete_Functions\obj\Debug\CWE477_Obsolete_Functions.pdb

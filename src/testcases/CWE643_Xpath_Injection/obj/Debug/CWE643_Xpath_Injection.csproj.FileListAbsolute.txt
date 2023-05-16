@@ -1,0 +1,13 @@
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE643_Xpath_Injection\bin\Debug\CWE643_Xpath_Injection.exe.config
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE643_Xpath_Injection\bin\Debug\CWE643_Xpath_Injection.exe
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE643_Xpath_Injection\bin\Debug\CWE643_Xpath_Injection.pdb
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE643_Xpath_Injection\bin\Debug\NLog.dll
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE643_Xpath_Injection\bin\Debug\System.DirectoryServices.dll
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE643_Xpath_Injection\bin\Debug\TestCaseSupport.dll
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE643_Xpath_Injection\bin\Debug\TestCaseSupport.pdb
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE643_Xpath_Injection\obj\Debug\CWE643_Xpath_Injection.csproj.AssemblyReference.cache
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE643_Xpath_Injection\obj\Debug\CWE643_Xpath_Injection.csproj.SuggestedBindingRedirects.cache
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE643_Xpath_Injection\obj\Debug\CWE643_Xpath_Injection.csproj.CoreCompileInputs.cache
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE643_Xpath_Injection\obj\Debug\CWE643_Xpath_Injection.csproj.CopyComplete
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE643_Xpath_Injection\obj\Debug\CWE643_Xpath_Injection.exe
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE643_Xpath_Injection\obj\Debug\CWE643_Xpath_Injection.pdb

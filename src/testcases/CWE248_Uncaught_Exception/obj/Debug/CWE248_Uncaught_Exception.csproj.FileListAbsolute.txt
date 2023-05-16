@@ -1,0 +1,13 @@
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE248_Uncaught_Exception\bin\Debug\CWE248_Uncaught_Exception.exe.config
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE248_Uncaught_Exception\bin\Debug\CWE248_Uncaught_Exception.exe
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE248_Uncaught_Exception\bin\Debug\CWE248_Uncaught_Exception.pdb
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE248_Uncaught_Exception\bin\Debug\NLog.dll
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE248_Uncaught_Exception\bin\Debug\System.DirectoryServices.dll
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE248_Uncaught_Exception\bin\Debug\TestCaseSupport.dll
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE248_Uncaught_Exception\bin\Debug\TestCaseSupport.pdb
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE248_Uncaught_Exception\obj\Debug\CWE248_Uncaught_Exception.csproj.AssemblyReference.cache
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE248_Uncaught_Exception\obj\Debug\CWE248_Uncaught_Exception.csproj.SuggestedBindingRedirects.cache
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE248_Uncaught_Exception\obj\Debug\CWE248_Uncaught_Exception.csproj.CoreCompileInputs.cache
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE248_Uncaught_Exception\obj\Debug\CWE248_Uncaught_Exception.csproj.CopyComplete
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE248_Uncaught_Exception\obj\Debug\CWE248_Uncaught_Exception.exe
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE248_Uncaught_Exception\obj\Debug\CWE248_Uncaught_Exception.pdb

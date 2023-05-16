@@ -1,0 +1,13 @@
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE667_Improper_Locking\bin\Debug\CWE667_Improper_Locking.exe.config
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE667_Improper_Locking\bin\Debug\CWE667_Improper_Locking.exe
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE667_Improper_Locking\bin\Debug\CWE667_Improper_Locking.pdb
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE667_Improper_Locking\bin\Debug\NLog.dll
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE667_Improper_Locking\bin\Debug\System.DirectoryServices.dll
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE667_Improper_Locking\bin\Debug\TestCaseSupport.dll
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE667_Improper_Locking\bin\Debug\TestCaseSupport.pdb
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE667_Improper_Locking\obj\Debug\CWE667_Improper_Locking.csproj.AssemblyReference.cache
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE667_Improper_Locking\obj\Debug\CWE667_Improper_Locking.csproj.SuggestedBindingRedirects.cache
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE667_Improper_Locking\obj\Debug\CWE667_Improper_Locking.csproj.CoreCompileInputs.cache
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE667_Improper_Locking\obj\Debug\CWE667_Improper_Locking.csproj.CopyComplete
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE667_Improper_Locking\obj\Debug\CWE667_Improper_Locking.exe
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE667_Improper_Locking\obj\Debug\CWE667_Improper_Locking.pdb

@@ -1,0 +1,32 @@
+trigger: none
+
+pool:
+  vmImage: windows-latest
+
+variables:
+  solution: 'src/**/**/*.sln'
+  buildPlatform: 'Any CPU'
+  buildConfiguration: 'Release'
+  csprojpath: 'src/**/**/*.csproj'
+  allTestCasesPath: 'src/AllCWECases/AllCWECases.sln'
+
+steps:
+
+- task: SonarQubePrepare@5
+  inputs:
+    SonarQube: 'SonarQubeBAMR_CONN'
+    scannerMode: 'MSBuild'
+    projectKey: 'Bachelorarbeit'
+
+# Dotnet build task
+- task: DotNetCoreCLI@2
+  displayName: 'dotnet build'
+  inputs:
+    command: 'build'
+    projects: '$(allTestCasesPath)'
+
+- task: SonarQubeAnalyze@5
+
+- task: SonarQubePublish@5
+  inputs:
+    pollingTimeoutSec: '300'

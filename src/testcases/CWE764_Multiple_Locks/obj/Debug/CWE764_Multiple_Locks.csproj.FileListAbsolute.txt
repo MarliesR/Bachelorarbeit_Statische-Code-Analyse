@@ -1,0 +1,13 @@
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE764_Multiple_Locks\bin\Debug\CWE764_Multiple_Locks.exe.config
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE764_Multiple_Locks\bin\Debug\CWE764_Multiple_Locks.exe
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE764_Multiple_Locks\bin\Debug\CWE764_Multiple_Locks.pdb
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE764_Multiple_Locks\bin\Debug\NLog.dll
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE764_Multiple_Locks\bin\Debug\System.DirectoryServices.dll
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE764_Multiple_Locks\bin\Debug\TestCaseSupport.dll
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE764_Multiple_Locks\bin\Debug\TestCaseSupport.pdb
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE764_Multiple_Locks\obj\Debug\CWE764_Multiple_Locks.csproj.AssemblyReference.cache
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE764_Multiple_Locks\obj\Debug\CWE764_Multiple_Locks.csproj.SuggestedBindingRedirects.cache
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE764_Multiple_Locks\obj\Debug\CWE764_Multiple_Locks.csproj.CoreCompileInputs.cache
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE764_Multiple_Locks\obj\Debug\CWE764_Multiple_Locks.csproj.CopyComplete
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE764_Multiple_Locks\obj\Debug\CWE764_Multiple_Locks.exe
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE764_Multiple_Locks\obj\Debug\CWE764_Multiple_Locks.pdb

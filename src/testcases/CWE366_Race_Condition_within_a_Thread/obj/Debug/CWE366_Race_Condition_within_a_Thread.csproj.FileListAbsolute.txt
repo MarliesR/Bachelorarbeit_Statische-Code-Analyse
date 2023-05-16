@@ -1,0 +1,13 @@
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE366_Race_Condition_within_a_Thread\bin\Debug\CWE366_Race_Condition_within_a_Thread.exe.config
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE366_Race_Condition_within_a_Thread\bin\Debug\CWE366_Race_Condition_within_a_Thread.exe
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE366_Race_Condition_within_a_Thread\bin\Debug\CWE366_Race_Condition_within_a_Thread.pdb
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE366_Race_Condition_within_a_Thread\bin\Debug\NLog.dll
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE366_Race_Condition_within_a_Thread\bin\Debug\System.DirectoryServices.dll
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE366_Race_Condition_within_a_Thread\bin\Debug\TestCaseSupport.dll
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE366_Race_Condition_within_a_Thread\bin\Debug\TestCaseSupport.pdb
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE366_Race_Condition_within_a_Thread\obj\Debug\CWE366_Race_Condition_within_a_Thread.csproj.AssemblyReference.cache
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE366_Race_Condition_within_a_Thread\obj\Debug\CWE366_Race_Condition_within_a_Thread.csproj.SuggestedBindingRedirects.cache
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE366_Race_Condition_within_a_Thread\obj\Debug\CWE366_Race_Condition_within_a_Thread.csproj.CoreCompileInputs.cache
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE366_Race_Condition_within_a_Thread\obj\Debug\CWE366_Race_Condition_within_a_Thread.csproj.CopyComplete
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE366_Race_Condition_within_a_Thread\obj\Debug\CWE366_Race_Condition_within_a_Thread.exe
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE366_Race_Condition_within_a_Thread\obj\Debug\CWE366_Race_Condition_within_a_Thread.pdb

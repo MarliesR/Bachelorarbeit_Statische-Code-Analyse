@@ -1,0 +1,13 @@
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE252_Unchecked_Return_Value\bin\Debug\CWE252_Unchecked_Return_Value.exe.config
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE252_Unchecked_Return_Value\bin\Debug\CWE252_Unchecked_Return_Value.exe
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE252_Unchecked_Return_Value\bin\Debug\CWE252_Unchecked_Return_Value.pdb
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE252_Unchecked_Return_Value\bin\Debug\NLog.dll
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE252_Unchecked_Return_Value\bin\Debug\System.DirectoryServices.dll
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE252_Unchecked_Return_Value\bin\Debug\TestCaseSupport.dll
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE252_Unchecked_Return_Value\bin\Debug\TestCaseSupport.pdb
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE252_Unchecked_Return_Value\obj\Debug\CWE252_Unchecked_Return_Value.csproj.AssemblyReference.cache
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE252_Unchecked_Return_Value\obj\Debug\CWE252_Unchecked_Return_Value.csproj.SuggestedBindingRedirects.cache
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE252_Unchecked_Return_Value\obj\Debug\CWE252_Unchecked_Return_Value.csproj.CoreCompileInputs.cache
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE252_Unchecked_Return_Value\obj\Debug\CWE252_Unchecked_Return_Value.csproj.CopyComplete
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE252_Unchecked_Return_Value\obj\Debug\CWE252_Unchecked_Return_Value.exe
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE252_Unchecked_Return_Value\obj\Debug\CWE252_Unchecked_Return_Value.pdb

@@ -1,0 +1,13 @@
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE478_Missing_Default_Case_in_Switch\bin\Debug\CWE478_Missing_Default_Case_in_Switch.exe.config
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE478_Missing_Default_Case_in_Switch\bin\Debug\CWE478_Missing_Default_Case_in_Switch.exe
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE478_Missing_Default_Case_in_Switch\bin\Debug\CWE478_Missing_Default_Case_in_Switch.pdb
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE478_Missing_Default_Case_in_Switch\bin\Debug\NLog.dll
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE478_Missing_Default_Case_in_Switch\bin\Debug\System.DirectoryServices.dll
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE478_Missing_Default_Case_in_Switch\bin\Debug\TestCaseSupport.dll
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE478_Missing_Default_Case_in_Switch\bin\Debug\TestCaseSupport.pdb
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE478_Missing_Default_Case_in_Switch\obj\Debug\CWE478_Missing_Default_Case_in_Switch.csproj.AssemblyReference.cache
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE478_Missing_Default_Case_in_Switch\obj\Debug\CWE478_Missing_Default_Case_in_Switch.csproj.SuggestedBindingRedirects.cache
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE478_Missing_Default_Case_in_Switch\obj\Debug\CWE478_Missing_Default_Case_in_Switch.csproj.CoreCompileInputs.cache
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE478_Missing_Default_Case_in_Switch\obj\Debug\CWE478_Missing_Default_Case_in_Switch.csproj.CopyComplete
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE478_Missing_Default_Case_in_Switch\obj\Debug\CWE478_Missing_Default_Case_in_Switch.exe
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE478_Missing_Default_Case_in_Switch\obj\Debug\CWE478_Missing_Default_Case_in_Switch.pdb

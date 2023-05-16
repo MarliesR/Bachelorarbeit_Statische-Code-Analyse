@@ -1,0 +1,13 @@
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE835_Infinite_Loop\bin\Debug\CWE835_Infinite_Loop.exe.config
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE835_Infinite_Loop\bin\Debug\CWE835_Infinite_Loop.exe
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE835_Infinite_Loop\bin\Debug\CWE835_Infinite_Loop.pdb
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE835_Infinite_Loop\bin\Debug\NLog.dll
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE835_Infinite_Loop\bin\Debug\System.DirectoryServices.dll
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE835_Infinite_Loop\bin\Debug\TestCaseSupport.dll
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE835_Infinite_Loop\bin\Debug\TestCaseSupport.pdb
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE835_Infinite_Loop\obj\Debug\CWE835_Infinite_Loop.csproj.AssemblyReference.cache
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE835_Infinite_Loop\obj\Debug\CWE835_Infinite_Loop.csproj.SuggestedBindingRedirects.cache
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE835_Infinite_Loop\obj\Debug\CWE835_Infinite_Loop.csproj.CoreCompileInputs.cache
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE835_Infinite_Loop\obj\Debug\CWE835_Infinite_Loop.csproj.CopyComplete
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE835_Infinite_Loop\obj\Debug\CWE835_Infinite_Loop.exe
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE835_Infinite_Loop\obj\Debug\CWE835_Infinite_Loop.pdb

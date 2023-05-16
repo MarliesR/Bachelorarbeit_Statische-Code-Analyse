@@ -1,0 +1,13 @@
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE459_Incomplete_Cleanup\bin\Debug\CWE459_Incomplete_Cleanup.exe.config
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE459_Incomplete_Cleanup\bin\Debug\CWE459_Incomplete_Cleanup.exe
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE459_Incomplete_Cleanup\bin\Debug\CWE459_Incomplete_Cleanup.pdb
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE459_Incomplete_Cleanup\bin\Debug\NLog.dll
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE459_Incomplete_Cleanup\bin\Debug\System.DirectoryServices.dll
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE459_Incomplete_Cleanup\bin\Debug\TestCaseSupport.dll
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE459_Incomplete_Cleanup\bin\Debug\TestCaseSupport.pdb
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE459_Incomplete_Cleanup\obj\Debug\CWE459_Incomplete_Cleanup.csproj.AssemblyReference.cache
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE459_Incomplete_Cleanup\obj\Debug\CWE459_Incomplete_Cleanup.csproj.SuggestedBindingRedirects.cache
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE459_Incomplete_Cleanup\obj\Debug\CWE459_Incomplete_Cleanup.csproj.CoreCompileInputs.cache
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE459_Incomplete_Cleanup\obj\Debug\CWE459_Incomplete_Cleanup.csproj.CopyComplete
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE459_Incomplete_Cleanup\obj\Debug\CWE459_Incomplete_Cleanup.exe
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE459_Incomplete_Cleanup\obj\Debug\CWE459_Incomplete_Cleanup.pdb

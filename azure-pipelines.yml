@@ -1,0 +1,28 @@
+
+trigger: none
+
+pool:
+  vmImage: windows-latest
+
+variables:
+  solution: 'src/**/**/*.sln'
+  buildPlatform: 'Any CPU'
+  buildConfiguration: 'Release'
+  csprojpath: 'src/**/**/*.csproj'
+
+steps:
+
+- script: dotnet tool install -g JetBrains.ReSharper.GlobalTools
+  displayName: 'Install ReSharper CLI'
+
+
+- task: CmdLine@2
+  inputs:
+    script: 'jb inspectcode src\AllCWECases\AllCWECases.sln -o=code_quality\resharper-results.xml'
+
+  
+- task: PublishBuildArtifacts@1
+  inputs:
+    PathtoPublish: '$(Build.SourcesDirectory)/code_quality'
+    ArtifactName: 'CodeInspectionReport'
+    publishLocation: 'Container'

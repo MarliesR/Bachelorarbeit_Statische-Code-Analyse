@@ -1,0 +1,13 @@
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE772_Missing_Release_of_Resource\bin\Debug\CWE772_Missing_Release_of_Resource.exe.config
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE772_Missing_Release_of_Resource\bin\Debug\CWE772_Missing_Release_of_Resource.exe
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE772_Missing_Release_of_Resource\bin\Debug\CWE772_Missing_Release_of_Resource.pdb
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE772_Missing_Release_of_Resource\bin\Debug\NLog.dll
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE772_Missing_Release_of_Resource\bin\Debug\System.DirectoryServices.dll
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE772_Missing_Release_of_Resource\bin\Debug\TestCaseSupport.dll
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE772_Missing_Release_of_Resource\bin\Debug\TestCaseSupport.pdb
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE772_Missing_Release_of_Resource\obj\Debug\CWE772_Missing_Release_of_Resource.csproj.AssemblyReference.cache
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE772_Missing_Release_of_Resource\obj\Debug\CWE772_Missing_Release_of_Resource.csproj.SuggestedBindingRedirects.cache
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE772_Missing_Release_of_Resource\obj\Debug\CWE772_Missing_Release_of_Resource.csproj.CoreCompileInputs.cache
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE772_Missing_Release_of_Resource\obj\Debug\CWE772_Missing_Release_of_Resource.csproj.CopyComplete
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE772_Missing_Release_of_Resource\obj\Debug\CWE772_Missing_Release_of_Resource.exe
+D:\Projekte\BA\Bachelorprojekt\src\testcases\CWE772_Missing_Release_of_Resource\obj\Debug\CWE772_Missing_Release_of_Resource.pdb
